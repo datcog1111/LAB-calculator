@@ -74,6 +74,8 @@
 
 .col-3:last-child {
   background-color:orange;
+  color:white;
+  border-left:1px solid black;
 }
 
 .col-3:last-child:hover {
